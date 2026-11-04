@@ -58,8 +58,9 @@ Extract the ZIP, open the folder in VS Code, and open `index.html` in a browser.
 4. Add the actual repository and live site links to this README. Capture screenshots of the final deployed pages and make your own 45–60 second screen recording.
 5. Upload required deliverables to a Google Drive folder set to Anyone with the link can view, test the link in a private window and submit it using the official form and your batch ID.
 
-Repository URL: not yet created.
-Live URL: not yet deployed.
+Repository URL: https://github.com/amnapervez8910/tsg-webdev-p03-amna-pervez
+Live URL: https://tsg-webdev-p03-amna-pervez.vercel.app/
+
 
 ## Image credits
 
