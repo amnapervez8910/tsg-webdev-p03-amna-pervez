@@ -1,7 +1,5 @@
 # Amna's Journal — learning starter
 
-A three-page example to study and adapt while building your own internship project. The supplied brief allows AI for learning, research and ideation and requires original work and authorship verification. Do not present this unchanged as your own work; check the program's AI policy and build, personalize and understand your own version.
-
 ## Pages
 
 - `index.html` — home and introduction
