@@ -63,8 +63,5 @@ Live URL: not yet deployed.
 
 ## Image credits
 
-All four example images were generated with Notion AI for this example. Their use in the internship project is subject to the program's AI and asset rules; obtain confirmation if needed. No third-party fonts or icons are used.
+All four example images were generated with AI for this. Their use in the internship project is subject to the program's AI and asset rules; obtain confirmation if needed. No third-party fonts or icons are used.
 
-## Walkthrough video
-
-`tsg-webdev-p03-amna-pervez-walkthrough.mp4` is an approximately 51-second automated recording of the local example, without narration. It is not a recording of a live deployment. After making your own final changes and publishing, record a fresh walkthrough of your final site if required by your program.
