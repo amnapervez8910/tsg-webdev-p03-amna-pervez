@@ -33,5 +33,4 @@ The visitor must send the message from their email app.
 
 ## Credits
 
-The images were AI-generated. AI assistance was also used in
-developing the website's code and text.
+The images were AI-generated. 
